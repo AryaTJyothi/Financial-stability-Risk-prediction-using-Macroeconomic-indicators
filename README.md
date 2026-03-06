@@ -1,4 +1,4 @@
-# Financial Recession Prediction using Machine Learning
+# Financial Stability Risk Prediction using Macroeconomic indicators
 
 ## Project Overview
 
